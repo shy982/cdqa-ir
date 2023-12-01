@@ -1,0 +1,20 @@
+IR with LSI
+===========
+
+
+
+
+IR With OpenAI Embeddings
+=========================
+
+Precision@10 => 0.9705357142857144
+Recall@10    => 0.003116685016974034
+NDCG@5	     => 1.0
+Compute time: 261.24 ms (Mean execution time for all queries) 
+
+
+IR with Vector DB
+=================
+
+
+
