@@ -8,3 +8,4 @@ faiss-cpu==1.7.4
 annoy==1.17.3
 langchain==0.0.344
 rouge_score==0.1.2
+llama_cpp_python==0.2.11
