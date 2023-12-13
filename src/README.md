@@ -2,9 +2,9 @@ Example Folder Structure (CISI Dataset):
 ```
 cisi
 ├── dataset
-│   ├── CISI.ALL
-│   ├── CISI.QRY
-│   └── CISI.REL
+│   ├── documents.pkl
+│   ├── queries.pkl
+│   └── rel_set.pkl
 ├── embeddings
 │   ├── lsi-svd.pkl
 │   └── text-embedding-ada-002-v2.pkl
