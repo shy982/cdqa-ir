@@ -1,6 +1,6 @@
 Example Folder Structure (CISI Dataset):
 ```
-cisi
+/src/cisi/
 ├── dataset
 │   ├── documents.pkl
 │   ├── queries.pkl
@@ -8,21 +8,29 @@ cisi
 ├── embeddings
 │   ├── lsi-svd.pkl
 │   └── text-embedding-ada-002-v2.pkl
-├── responses
-│   ├── da-vinci-0.0.3
-│   │   ├── llm_w_rag.pkl
-│   │   └── llm_wo_rag.pkl
-│   ├── gpt-3.5-turbo-instruct
-│   │   ├── llm_w_rag.pkl
-│   │   └── llm_wo_rag.pkl
-│   └── llama-7b
-│       ├── llm_w_rag.pkl
-│       └── llm_wo_rag.pkl
-└── vectordbs
-    ├── annoy
-    │   ├── index.annoy
-    │   └── index.pkl
-    └── faiss
-        ├── index.faiss
-        └── index.pkl
+├── ir_techniques
+│   ├── annoy
+│   │   ├── index.annoy
+│   │   └── index.pkl
+│   ├── exact_search
+│   │   └── index.pkl
+│   └── faiss
+│       ├── index.faiss
+│       └── index.pkl
+├── notebooks
+│   ├── generate_embeddings.ipynb
+│   ├── ir_techniques.ipynb
+│   ├── llm_w_rag.ipynb
+│   ├── llm_wo_rag.ipynb
+│   └── preprocess_data.ipynb
+└── responses
+    ├── da-vinci-0.0.3
+    │   ├── llm_w_rag.pkl
+    │   └── llm_wo_rag.pkl
+    ├── gpt-3.5-turbo-instruct
+    │   ├── llm_w_rag.pkl
+    │   └── llm_wo_rag.pkl
+    └── llama-7b
+        ├── llm_w_rag.pkl
+        └── llm_wo_rag.pkl
 ```
