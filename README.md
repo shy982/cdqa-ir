@@ -61,7 +61,7 @@ CDQA, aligning them with the dynamic challenges posed by diverse knowledge domai
 3. The [Results Notebook](https://github.com/shy982/cdqa-ir/blob/main/src/get_results.ipynb) has the compiled results of
    all our experiments and sub-experiments. Running this notebook will read, process, and compute all results from the
    responses and data pickle files for each dataset using the corresponding models. These results have been added in
-   our [Notion]() report as well.
+   our [Notion](https://peridot-dance-ae4.notion.site/Closed-Domain-Question-Answering-c09ac8ace57040978d98463de5d2d58a) report as well.
 
 4. If you wish to separately run individual experimental sections for a specific dataset:
 
