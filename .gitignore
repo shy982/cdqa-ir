@@ -164,5 +164,4 @@ cython_debug/
 /.DS_Store
 .DS_Store
 
-src/experiments/backups/llama.cpp/
-src/experiments/backups/llama_with_rag_responses/
+src/llama.cpp/
