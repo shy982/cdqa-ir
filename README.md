@@ -34,8 +34,6 @@ CDQA, aligning them with the dynamic challenges posed by diverse knowledge domai
     - You'll need to add the `OPENAI_API_KEY` to a `.env` file. An `env.example` is given in the root directory of the
       repo (open to see instructions).
     - To get the API token, please follow instructions in [OpenAI API](https://openai.com/blog/openai-api).
-    - **To run just the [Results Notebook](https://github.com/shy982/cdqa-ir/blob/main/src/get_results.ipynb), you do
-      not need the key.**
 
 3. **LLaMa-7B Model Requirements**:
    To run LLaMa-7B model locally, please download it using the following commands:
@@ -99,8 +97,7 @@ CDQA, aligning them with the dynamic challenges posed by diverse knowledge domai
 
 We appreciate any ideas and contributions from the open-source community.
 
-We aim to make this project accessible and modularized enough to use as a plug-and-play model for evaluating traditional
-and modern Closed Domain Question Answering approaches.
+We aim to make this project accessible and modularized enough to use as a plug-and-play model for evaluating traditional and modern Closed Domain Question Answering approaches.
 
 Please feel free to contact the authors if you are interested to contribute or collaborate:
 
