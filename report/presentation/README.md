@@ -4,4 +4,4 @@ https://docs.google.com/presentation/d/1HdaHSqWilGEdSq879RYodyxtDgNsNWHA6_oJGGYm
 
 # Our Presentation Link
 
-https://docs.google.com/presentation/d/1srmKZogICruAiptBp3EDmKaJon9fsqDWs7NC_w5tdGo/edit?usp=sharing
+https://docs.google.com/presentation/d/1GekJmj9ytJk-YDpcvjU68ttF6KfORVNKXtEk5uS-RHI/edit?usp=sharing
